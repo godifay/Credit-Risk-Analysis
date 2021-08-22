@@ -5,7 +5,7 @@
 In this section, describe the analysis you completed for the machine learning models used in this Challenge. This might include:
 
 * Explain the purpose of the analysis.
-The purpose of the report is to analyse a credit risk based on the the dataset provided by appliying machine learning model. 
+The purpose of the challenge exercise is to analyse a credit risk based on the the dataset provided by appliying machine learning model. 
 * Explain what financial information the data was on, and what you needed to predict.
 The financial information is based on the dataset of historicaly lending activities and to predict the creditworthiness of borrowers. 
 * Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
